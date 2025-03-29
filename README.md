@@ -1,2 +1,2 @@
-# sipinine-shelper
+# Sipinine-shelper
 School Student Helper
